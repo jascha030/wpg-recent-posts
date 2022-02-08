@@ -1,0 +1,18 @@
+{
+  "name": "wpg-recent-posts",
+  "version": "1.0.0",
+  "description": "Gutenberg block, to display recent posts.",
+  "main": "index.js",
+  "scripts": {
+    "build": "wp-scripts build",
+    "start": "wp-scripts start"
+  },
+  "keywords": [
+    "WordPress",
+    "Gutenberg",
+    "Blocks",
+    "wp-scripts"
+  ],
+  "author": "Jascha030",
+  "license": "MIT"
+}
