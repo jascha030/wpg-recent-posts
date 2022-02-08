@@ -1,0 +1,15 @@
+{
+  "apiVersion": 2,
+  "name": "jascha030/wpg-recent-posts",
+  "title": "WPG Recent posts",
+  "category": "common",
+  "icon": "smiley",
+  "description": "Gutenberg block, to display recent posts.",
+  "supports": {
+    "html": false
+  },
+  "textdomain": "wpg-recent-posts",
+  "editorScript": "file:./build/index.js",
+  "editorStyle": "file:./build/index.css",
+  "style": "file:./build/style-index.css"
+}
