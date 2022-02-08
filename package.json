@@ -14,5 +14,13 @@
     "wp-scripts"
   ],
   "author": "Jascha030",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "@wordpress/scripts": "^20.0.2"
+  },
+  "dependencies": {
+    "@wordpress/block-editor": "^8.1.0",
+    "@wordpress/blocks": "^11.2.0",
+    "@wordpress/components": "^19.3.0"
+  }
 }
