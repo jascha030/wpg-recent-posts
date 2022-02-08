@@ -3,11 +3,6 @@
     "description": "Wordpress Gutenberg, recent posts block.",
     "type": "wordpress-plugin",
     "license": "MIT",
-    "autoload": {
-        "psr-4": {
-            "Jascha030\\WpgRecentPosts\\": "src/"
-        }
-    },
     "authors": [
         {
             "name": "Jascha030",
