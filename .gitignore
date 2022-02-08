@@ -1,0 +1,20 @@
+# JetBrains
+.idea/
+
+# VS Code
+.vscode/
+
+# Composer
+vendor/
+
+# NodeJS
+node_modules/
+dist/
+
+# MacOS
+.DS_Store
+
+# Other
+.pm.toml
+**.cache
+
