@@ -1,0 +1,24 @@
+{
+    "name": "jascha030/wpg-recent-posts",
+    "description": "Wordpress Gutenberg, recent posts block.",
+    "type": "wordpress-plugin",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Jascha030\\WpgRecentPosts\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Jascha030",
+            "email": "contact@jaschavanaalst.nl"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require-dev": {
+        "symfony/var-dumper": "^6.0"
+    },
+    "require": {
+        "php": "^8"
+    }
+}
